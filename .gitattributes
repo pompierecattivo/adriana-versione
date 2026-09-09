@@ -1,0 +1,3 @@
+# Fine riga normalizzati: il file viene letto da un programma, non da un
+# editor, e un CRLF di troppo in un JSON e' rumore che viaggia.
+* text=auto eol=lf
