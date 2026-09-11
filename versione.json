@@ -1,4 +1,4 @@
 {
-  "version": "0.3.2",
-  "notes": "La finestra si disegna alla densita' giusta sugli schermi ad alta risoluzione"
+  "version": "0.3.3",
+  "notes": "Lo zoom c'e' in entrambe le viste, i suggerimenti si leggono, e l'Ascendente e' spiegato anche nel PDF."
 }
