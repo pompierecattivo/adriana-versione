@@ -1,4 +1,4 @@
 {
-  "version": "0.3.1",
-  "notes": "La finestra si adatta allo schermo, e l'avviso di aggiornamento si vede"
+  "version": "0.3.2",
+  "notes": "La finestra si disegna alla densita' giusta sugli schermi ad alta risoluzione"
 }
