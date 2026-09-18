@@ -1,4 +1,4 @@
 {
-  "version": "0.3.4",
-  "notes": "I paesi ci sono anche nei file esportati senza rilievo, e il rilievo si scarica da se' solo se glielo chiedi."
+  "version": "0.3.5",
+  "notes": "Un comando solo per il rilievo, e dice quel che costa."
 }
