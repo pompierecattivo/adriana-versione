@@ -1,4 +1,4 @@
 {
-  "version": "0.3.5",
-  "notes": "Un comando solo per il rilievo, e dice quel che costa."
+  "version": "0.3.6",
+  "notes": "Le note dell'esportazione non mandano piu' a cercare un comando che non esiste."
 }
