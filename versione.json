@@ -1,4 +1,4 @@
 {
-  "version": "0.3.6",
-  "notes": "Le note dell'esportazione non mandano piu' a cercare un comando che non esiste."
+  "version": "0.3.7",
+  "notes": "La nota del file esportato non dichiara piu' assente il rilievo che c'e'."
 }
