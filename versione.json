@@ -1,4 +1,4 @@
 {
-  "version": "0.3.9",
-  "notes": "Salvando un file si sceglie dove, e il programma dice il percorso."
+  "version": "0.3.10",
+  "notes": "L'eseguibile dichiara la versione che ha davvero."
 }
